@@ -1,0 +1,26 @@
+{
+  "name": "Irene Barrett",
+  "age": 37,
+  "address": {
+    "street": "Vazdok Court",
+    "city": "Liokog",
+    "state": "CT",
+    "zip": "97291"
+  },
+  "contact": {
+    "phone": "(206) 491-2108",
+    "servicePhone": "800218252"
+  },
+  "birthday": "1999-03-23T01:49:30.141Z",
+  "ip": "145.223.219.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Donurvi aneno nemuore wapi fe vadcidno tuvatma pimdutoz ja kujnanar colenwaj kupvol ha gew zasute osbovog pir. Ku akila jazsogoku satzecaz megaon ne di pecvuhhe davlafo kar liro newos. Va ucipah lic sanohju tugil kaf sa basikova tijna poztu pokutakos us os je so rucluri tidsem orumuvam.",
+    "bio": "Ce irilo ceaw av ge mujtoczu no ocule eju selimjud to okcejus veteopi lud fuvuksug rolef. Ve adez tumedik ruw zejiwij fuhudju wiv tilalga up jo ekoebepa pu sabwat guito ulu vuturpak osletgu. Zocdibuz zebivi werker pid vev rogbuha hikzulo fieludin nebwabpu lu aw vucwuj togmolbiw."
+  },
+  "apiKey": "eaae8c486c0190c0483be6fb6622d5e51f4a29fe1cbe6477fffbb3177b5116ad",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
