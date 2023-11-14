@@ -1,0 +1,26 @@
+{
+  "name": "Anne Pierce",
+  "age": 51,
+  "address": {
+    "street": "Tawpi Pass",
+    "city": "Gemiwit",
+    "state": "DE",
+    "zip": "85363"
+  },
+  "contact": {
+    "phone": "(538) 560-7094",
+    "servicePhone": "800531867"
+  },
+  "birthday": "2004-07-30T17:34:55.682Z",
+  "ip": "212.130.4.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Coprerzu kilgutnak hufohom mevuugu fonofeda vo tev omoone hapca evhaw nez ba mo red pazcatsos takbu hameb. Zavvon ubuva uj ha fafuef kopwon nek ijihukis fak zab tepawe du beneupa rewigju efe opa pis. Maznod niw rawes hevza uzebabij zemhiwik abmu du acpecli hudac gejeohe ba. Nuciv wa iwsitog pud veduweto jo mubzi ihoap babvin molantaf zewanwe vutfabtiw. Lu ha juca zamirte zuwkojji hese jovdevtuf ce ezu bonomo wuzjize pahu wirzuado eji horibbom sa amha.",
+    "bio": "Fe ba ew ah anatu jeha re vufhi idatu kus ejju no dajec ho zaovu vochegta ru zoj. Tufinev ovoire ebak ambiace asecucuv bohfud jum wi ricif viirja nid alu cuiwo. Pudpelpoj ire ke tuconzeg to duvvag bivkonif kecef wasfike ceduwbe caluku cov. Pigulobu sob ge eccapa dagno zev go se hakevo zokukic uduculu nobid fafvipin."
+  },
+  "apiKey": "ec5df54fb817cbe9b25ef2cbe47853e1a00f9dc62231a63b90fb5bdd9dc13b0f",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
