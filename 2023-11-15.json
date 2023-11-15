@@ -1,0 +1,26 @@
+{
+  "name": "Max Rodgers",
+  "age": 42,
+  "address": {
+    "street": "Gincu Loop",
+    "city": "Dodeos",
+    "state": "NE",
+    "zip": "21434"
+  },
+  "contact": {
+    "phone": "(326) 304-5458",
+    "servicePhone": "800592713"
+  },
+  "birthday": "2002-01-02T11:47:44.097Z",
+  "ip": "185.84.119.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Tul kiwbed emewif bu wuzi uda nabse co fofdo wovum erketcu gag da fekzahpo es. Izbe diib dejpuneti roefojah kirfuhuk ac susa gobfut pavesad kobe iteitiupe gopa. Lem nifipul kuhuehi her tehzavle zicolvi to fehbu wezuhcu agmoh jaltuwfer tufude.",
+    "bio": "So bevle fozedi nocatu pel rov wibaf dupven mozte visel locu ginimmig havakag liv. Ce cikuz ob ahowu cazhotfil odre hajbamir ji pucew tihne unduvfem puzuicu favju jab atefehel ne vav isipi. Viho dicam ro dizorfuf zuzrimej wupa japzaj ha nasa nomnajme ejgejfo batzifoko uhuodasit vivtesad duvuli fo heshitu timow."
+  },
+  "apiKey": "fdfc83fe1846f621b9bef46655cfedb681aabc66ecb5fc5285c9e0606fffae6f",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
