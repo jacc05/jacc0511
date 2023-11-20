@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Norris",
+  "age": 40,
+  "address": {
+    "street": "Vehi Ridge",
+    "city": "Ajvacsag",
+    "state": "RI",
+    "zip": "81967"
+  },
+  "contact": {
+    "phone": "(714) 207-6389",
+    "servicePhone": "800986666"
+  },
+  "birthday": "1983-06-25T18:28:43.513Z",
+  "ip": "221.18.74.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Cow tuwlu kivo sackibi gogne kaw tepce waz sofer ca relagad vumuwro. Ovuko mir petzul jojonu nevid kauk geihobib kogpol ti zuruw buhuj anki fu jamzizopu kanguka owajuc rubni. Faat decvurho goprigpo eb pug vab lu uj vim tezwo ti soh cijjeguw citi geswuzsa cuugu.",
+    "bio": "Gedo sobvi uncus pip comawjew citu de ba alcovbi taova jido redu. Vaarmub fug sefet gic ale vadicaha ve poz eh ivipot toj lukzum guh he ti. Udimideku olo lujul ovajirnu ijo jug meriflop fefuf lo er do om set. Muikacol mazu nagaj esunas hav gunana ce ruv beroimu ovi ne mohuzuz haj zaciwati oskice. Aw di olno af ve oredena lapolhim kasleir ijmidlu ba ed dabeb."
+  },
+  "apiKey": "3df1c80158881318c53424bda213f23a19f75df1606dd813bde0c7ff2fb03452",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
