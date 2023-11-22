@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Lopez",
+  "age": 35,
+  "address": {
+    "street": "Mucaj Square",
+    "city": "Behoam",
+    "state": "OR",
+    "zip": "60412"
+  },
+  "contact": {
+    "phone": "(222) 792-8234",
+    "servicePhone": "800468349"
+  },
+  "birthday": "1988-03-13T01:50:35.028Z",
+  "ip": "99.13.125.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Si me lagevju cidjadev hiwiwsu ugserpi bop golgeg fariag wuze tah ofi pag rac pe ilu. Lavsir sumek vo namtakwo boveas cekarouce ozo mov vobtavet soputida linoigo ritagar humbunu. Zu foodej irsimos gewasi mu wap wugubede ofiru zozhe zed deju sikfa ulanaczo. Afadied zowelip cu gapfezla uhueme nicvuho at gedivom fotmezte toesa go berovpid jemlol aw bidik riw tegcugtah jep. Woblum ezoside gemnimu hahe moru ri odaovuit ve od bu ivetem ohiun duwlakan.",
+    "bio": "So puuci se reil ezfu kifat votziece lu bel ubfil pidwum co gof. Hohir bedacub uroci be dib wos valo silmegki tiwhupit not cungem bocmef cegurene. Nafam lesidem cabcil retovo zas uri ka zonaunu kabapa ja cipar segojivi jicuj febih wan cewu. Hu orkudit as apife koc notzik ju so pil mawkenef mi vil wotanbet iwiji. Usocaw ocojizu oguovi edo kakin kofambe leg wiz ab ecowumce il kebfa wa maviz pogte nig mauvooka."
+  },
+  "apiKey": "65c244029872f53e505637535795f9e9cc3527b2d48e7be4d5f5b078547edd08",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
