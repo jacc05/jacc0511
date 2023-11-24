@@ -1,0 +1,26 @@
+{
+  "name": "Lela Jones",
+  "age": 47,
+  "address": {
+    "street": "Duhta Boulevard",
+    "city": "Lalhizpa",
+    "state": "OH",
+    "zip": "40143"
+  },
+  "contact": {
+    "phone": "(473) 260-6333",
+    "servicePhone": "800788124"
+  },
+  "birthday": "2002-09-19T15:52:25.405Z",
+  "ip": "112.128.103.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Sepoah ul nozloceve burru hukesare tibuhuc najhuzeci nowjafkul nukub ruhded tumweh nuncu femeroru rag rejjopu bulbahi raw. Nigig majkites duzvaezi su fa sehu kurtu taj obedate notabi lu upbanvi kehet ezo ubzov wacol huwunva. Ar sot wu ilnolwe ob vi ap azo fahi uje arcok jiugagic pa.",
+    "bio": "Kucdu keb litoztac fu vat hief wavim ov biunuvev nosuw rob meiswe uczu odhur luz nas bogzagcat. Egjah jed baboguf dur viwoz ligzetgud wos la evli wic egoze fokok hu hurefsek cekus ra. Wamgit za husir duhil ibepi igo kekbut fa dejvekup towcukar bictaze uhe. Mowojej nocge rehos zefahhul ipzihla ruzunem nopki ne dapen zo pol legmo onerojju hahuwcaj wacnev dife."
+  },
+  "apiKey": "d93c70f54d4e108eac4fde5a5f89639686706d06b2c31a1383a5abc7a777fd44",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
