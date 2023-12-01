@@ -1,0 +1,26 @@
+{
+  "name": "Alice Tyler",
+  "age": 64,
+  "address": {
+    "street": "Ipte Place",
+    "city": "Wejemul",
+    "state": "VT",
+    "zip": "38233"
+  },
+  "contact": {
+    "phone": "(828) 209-3984",
+    "servicePhone": "800164366"
+  },
+  "birthday": "1985-08-03T05:02:47.990Z",
+  "ip": "39.215.113.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Simkozsa osifso vedkane eruore duruome kojaliz cokir be tokul edisic bepoop zacebeap zas nu tobevjub fofaha tagvasja ka. Tosjibled do bafkijwiv fezod gosfozu womok zofozsa kahes mocwizek amaju jukolooh ukge dobhofror jof nisippit beel. Suwa fud se ko vijaloaz pofviti sogdo izeme an nelzuugi tikad kescebbi kat vatas. Pe keh zan kadamru duge kalse vahafuve had catere wezbej ohjum beew hujemza.",
+    "bio": "Ema za nahewli dalsuz uvgowu owjaroni fifkikwu wus ferme zephoman fesumu ka vis haaji izutli. Mu jufacbij panbip zewemri vopirrag baloza hed wusa gowega nusduk sineg likvapcec doutfa zuwa mirdo wa caca safsokur. Un wiogo tu jero sa pej zawloj kues meuwsek ajvutgen bu fepuc. Tukap dodhi pa pozovjo kofja he dupuwil hu cam pihefa ka orju icetmid fa bo ufeetiit puner. Bi lopug hudogice zuki wapem zuzipapu no jov zefmoam ajedof telgoba uluvuf bugmes."
+  },
+  "apiKey": "2a274fd2fc06fd55957d1a52717af8ba516929583c11017222d7c9301f931289",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
