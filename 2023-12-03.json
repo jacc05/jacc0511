@@ -1,0 +1,26 @@
+{
+  "name": "Louis Payne",
+  "age": 34,
+  "address": {
+    "street": "Gile Heights",
+    "city": "Warjasek",
+    "state": "MO",
+    "zip": "88111"
+  },
+  "contact": {
+    "phone": "(443) 725-7989",
+    "servicePhone": "800747561"
+  },
+  "birthday": "1966-08-08T22:44:34.599Z",
+  "ip": "135.122.170.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Ridda ih bid jupop ilsial omi jobuwti ecwu kubog isieto maof ogawimov racu cesir vokfot ture. Be su largevom jonibiino epioci suha rivan koefu vumim vet ika zannihjum zikahsaw beh. Biccejib ne muz wooridiw ohe relpi wip pahoj duhju fewoan kigvi fumricbar. Awurato ut kafzubpu fikti tosev rowpodes sufmal ri poumpa nilmamreh huuw de fapbifo.",
+    "bio": "Emozge dompaf utuaj donullac tu ge aropig carkortaf ape fagal zecgoto taglicum wemjid ip zawo. Biva ciirkah ubgesop tem bahdoc pemgip gib wojtupbep nekuku ninhoj if apjivko so caw. Te kid fetdarib ba kaftovfe devuf eji uz gozac nuvvulaw kerjadu unozavbe. Gu pip fazjijeb hezudjiz mu ezuba tuk dapmewi vuczabuz ojbot upives kebjah wa actig nekih cejlucze. Ka nuusutal dijigeko fetbo hujmu vibocgub dapigher jur kesami curak azmol cu zi acula dasud."
+  },
+  "apiKey": "b1509b59b3eeaed7d6e53c6902c2d1f097bba659cc7265b1ceb7f84a2d925760",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
