@@ -1,0 +1,26 @@
+{
+  "name": "Emily Cummings",
+  "age": 42,
+  "address": {
+    "street": "Verob Place",
+    "city": "Baekugih",
+    "state": "AZ",
+    "zip": "17680"
+  },
+  "contact": {
+    "phone": "(958) 256-1945",
+    "servicePhone": "800159714"
+  },
+  "birthday": "1995-06-30T09:16:26.481Z",
+  "ip": "8.35.105.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezlukpo liblim pizziv biblavvu fuwiboma olhuse hundome tipzu isga nesboshon gudu kariela guzrizoja onaor lep poplup jiplud caregu. Kah vac mahseriro puwmadcar pizvu furel evoga jun iz ize tap ruwav lohub eze hophe bi wudorku mi. Wivwokna vi mu sos hiebci huz ewsimuk ka arvuesa puc nolsa bofaoto viumwic ipe. Paguwde gek tis ipoguw ibiar ifimuka ujouhedim bemhouc honigolo ged sef fukaw becit jet.",
+    "bio": "Gacvudhez ehujirdes komofomah ef kawsadmi raro zion jine nil wasarta simgojan fafohip. Mipepavin seplilrep haobe ho bum beg jeje noj vurgon gihif oca tuhukov ho wowfoca pabahnu ubpa neujo labaas. Meh nom ohelum wut lotbawafu bal jumci ti ushuzci pujpu sa fewzutgev."
+  },
+  "apiKey": "cf06a8eb64faa6dd1111e81d587e03f6f8774a169d1a400a64ec37552757be79",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
