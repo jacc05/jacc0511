@@ -1,0 +1,26 @@
+{
+  "name": "Delia Medina",
+  "age": 44,
+  "address": {
+    "street": "Ceuz Street",
+    "city": "Fufumcil",
+    "state": "AL",
+    "zip": "07161"
+  },
+  "contact": {
+    "phone": "(560) 398-4937",
+    "servicePhone": "800138933"
+  },
+  "birthday": "2001-08-09T20:02:25.530Z",
+  "ip": "88.105.124.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Ar emsob ba ruep fawhe ah ja mu suvduwa reoz ni jig it vab azi ja uhofo dazuusi. Het gi pa mocin lo hudzes gunid cutep ivvadri ok lejeb zi vogolaf kemoeve miffizij de. Civfafad iturevan za noj vov sevguum bopocake duz hivtes zu hoc gohze uhaje ogoijovo evoru. Ego uwo ziwzareg darkaw vioki zehudje zirhurel gen fopeehi egeduvca cuc ma le zam uwe it.",
+    "bio": "Kawi nilro awba diz ako kud wacreona be neva lut olarev fizjemoh usuhi waj mogseh bufpu. Jerudham lulof of op ba rotewwa afeigwi surhojhid cunoh sif semako zoodu. Uzeesajar tolasa gadobu totur vuweje dutu badsov muzfelimo kathiwi colcolih kuheftuf unahib lita. Wa wote de jijop dikwok ja jehecan je fu tolkos wurinwec neehti zumuh abno ca. Sivlel adiitcet fegol vunribas pawbos ahubup ip kupmujev ekiepigev sibogo vew fur mo rodo he ho encevez. Refgasar cagous healisem sozlo tof bo aci su topep hepiw cedruh aki hug."
+  },
+  "apiKey": "f0ef1a3035ddc326b21f5e7311fc13a915533f6db145678429699c449e665b2d",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
