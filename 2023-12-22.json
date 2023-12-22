@@ -1,0 +1,26 @@
+{
+  "name": "Austin Ramirez",
+  "age": 60,
+  "address": {
+    "street": "Gitfal Loop",
+    "city": "Hulafur",
+    "state": "OH",
+    "zip": "81253"
+  },
+  "contact": {
+    "phone": "(261) 831-7812",
+    "servicePhone": "800581995"
+  },
+  "birthday": "1969-04-18T18:27:21.813Z",
+  "ip": "172.62.17.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Wowef jukufiziw sutvoh gicelic nuw cepeguk geh diep wapo niemo caw osiuci zoghi abuj da opuarfob musaoz iz. Bozus wakzaw roluhlu dahinava macapiv rasenip ami puwtelkac li ace iz nostow. Bap tuh pib ozabo nu gici suhuksuj wis uljapi segnuv ra ve fiz hefmer tojerwu.",
+    "bio": "Gowifor lilvo upi ma birsapkaw upjoahi tu ikosid kiv awruur rerolu motam geobi amo muszoba iloro vinne du. Kopicgap esirib egu jejsaiv wu tifli oznabfi moju aja hid sezimroc efzi kotbe muro pihiwha wuila ikaime. Tuw wiz zaahcu pi gefip napzuj fezibow itu am tizojve ahrafeg jehgo usi fegzezil tahog fikusaheb."
+  },
+  "apiKey": "94aae07c0b3c8dac76225dd12e12d16c320fc5c187d37d62371fddb2f61d279d",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
