@@ -1,0 +1,26 @@
+{
+  "name": "Alex Evans",
+  "age": 49,
+  "address": {
+    "street": "Hege Junction",
+    "city": "Ocsunon",
+    "state": "WA",
+    "zip": "65255"
+  },
+  "contact": {
+    "phone": "(884) 883-7036",
+    "servicePhone": "800386793"
+  },
+  "birthday": "2000-09-19T20:52:35.455Z",
+  "ip": "133.60.176.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Ilukiin fuar talvul uh giig sote gafengaw maw ez bebe je ja. Bop timaf jiruz demivni oldomtus ij reb mis wimoteocu imhazru osu pe tidcu darot uliwen dug vaife sarboc. Nadatu tozume tuvrid cag ogmaclus kulaccor ef pezig gak dir si wucbignu be.",
+    "bio": "Kugatow pujesa guum afufoka un toebiuto ew eficosis zo jodohuju buhjanep al oc faskave. Ezet hu eju asi suhraic saebose ivi gehwop va ake raosapa wohup cuj efeju kewut. Izu vahek ko apa ri gadlidji ca piloon rumkouve zanub zafe fotcalci ce no revas toz. Ahosuhno zo liccapza kizci colkecuk ec uhecongi zo zeguhab dokgev gafmovcu othuto. Vah otu nu zabideb tilzugdu fukpir ce kil holru siznojfol meikevi perwor urjavhif vovco jijcojku huz foepu."
+  },
+  "apiKey": "bf7bd907f5f6eda87cac1a43b71a0c07d9ed8552a1c638e4f13e7bf7ada41479",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
