@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Watts",
+  "age": 22,
+  "address": {
+    "street": "Enfe Extension",
+    "city": "Onkawsor",
+    "state": "OR",
+    "zip": "90169"
+  },
+  "contact": {
+    "phone": "(614) 302-8301",
+    "servicePhone": "800426417"
+  },
+  "birthday": "1982-07-30T13:10:22.079Z",
+  "ip": "95.22.78.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Sago ubmok fedwul sulagja unaariepe hewej noz of cewatuf rajiwu adjojag ge. Egi sipiw puweje pavo vucfe gi fisfob wisoh ame irole dam azecugaz. Jaile certos vulvem bavow varam tehcihit tubamga bigo apanibu piuti gosva vi ka.",
+    "bio": "Tibein dejzimlaj woahu mowi races gisjar edtot lekibto dumonhic zonu ekruiz tu wet ruk senin isfif lanijrig. Ziip cut coewa ab julbo jaseza gezujum kawaze nawogoti jaj alkaise tohzed. Nob hotnaka nim vacuh katpe cewpo wufaha foli butniw ezemo uje enagu nidfuksu itdumaw vil mosil guc itatuhpa. Ru mipuh bi wiwaga nu lej mefbi nadbi ik ivtokvo ma hed ehohetmo nurrugrov ne vasolabi."
+  },
+  "apiKey": "f614ccf96dafcdf2816011796190e8b1c5e6f8387e6c4247dc11c27afa0b7b51",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
