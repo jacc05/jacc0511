@@ -1,0 +1,26 @@
+{
+  "name": "Warren Fox",
+  "age": 22,
+  "address": {
+    "street": "Karaso River",
+    "city": "Odihejlum",
+    "state": "NV",
+    "zip": "59104"
+  },
+  "contact": {
+    "phone": "(933) 216-8475",
+    "servicePhone": "800722653"
+  },
+  "birthday": "1962-07-10T06:07:47.940Z",
+  "ip": "32.95.156.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Rowu jap obe manastoj ozwasola guj puf huvar ri lezsobtob lef ekosi ca gues so. Ardocbi elbe oga ofzihge sihkici heb eme nacpepi ma ro lecwu buzo cotkote ugiar dizotnu ha. Tari za niafowuj hiltibava je hivamdac tolulizop citlot sa ipaloto kiwoc urueba.",
+    "bio": "Er munsig ibno cok ugihovru ik ubab ubufe gopesre seos pilaze dozbu. Tipoder finjuz wuz ga on tewjeol bifuc owaduluk kovohso uneife se wodloc limo nivlo jubwibfic daanotig. Fah witarfu vin luc laamone ni edle ni sod bug je orjawro. Pihbedgoh sugir afi pis iboewado tocfibtun ragu jerur hoilu gicbirapi mi uvosava kivep wis gape waf womkigup."
+  },
+  "apiKey": "45d2e14319923072ba7a7e55cf61f36ead72983549917ac09dafb45bc2939f25",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
