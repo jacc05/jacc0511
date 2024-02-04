@@ -1,0 +1,26 @@
+{
+  "name": "Cora Jensen",
+  "age": 57,
+  "address": {
+    "street": "Sejef View",
+    "city": "Wafjomjoz",
+    "state": "KS",
+    "zip": "17676"
+  },
+  "contact": {
+    "phone": "(557) 642-6450",
+    "servicePhone": "800363152"
+  },
+  "birthday": "1989-02-09T16:54:00.690Z",
+  "ip": "71.50.64.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Liov joc ufitolpon akaacis popevut woktu uzoajlu wowedat hembajaz racozpuw sa akaijaeb ezowupeb. Pupfilji befut pej mickaba geturka ajvedwa kitul ilpad de hirkul cufop gazlo lebuaf. Af wejfuc goori it ki mi cepuka dejha def vatazi na pavzaoga juttup vacomo ic cen. Wam un vikijag duvzorac so puzi uhaawijip gaczituv zuke erazigat ogputasa gaclod fu ro mevpogibu joopiv. Raj aliho lifi betlofa apfak oni bimecta ju lurti nunan viv ode asevo jar. Cul iruze zof nusuhmuz oras tudzehig watu suljus vunof usuowago pej daihu.",
+    "bio": "Zusib diwfin sewvifta edi bis iseukmop cetad foboz re adawo cubwo padmew secha mik meedeviw. Sabladda ipo pefweleli re niv ruh bunes ac der jun ucufo hehvovbes iphati sokginor vaose munrizbi ga vebraponi. Mij wiofutit li ju kawhivti saglu ip jipruoc baof ebviede gob oruuv niumais tuzas gus bondoral kit."
+  },
+  "apiKey": "891e9af8999e2c92338cdeeaf4077d0eea05c3f60eaa6c0361af40937cec05a7",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
