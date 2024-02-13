@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Carlson",
+  "age": 19,
+  "address": {
+    "street": "Tapbek Way",
+    "city": "Rupdedco",
+    "state": "OH",
+    "zip": "62725"
+  },
+  "contact": {
+    "phone": "(713) 269-6755",
+    "servicePhone": "800551718"
+  },
+  "birthday": "1960-06-04T03:01:46.244Z",
+  "ip": "124.22.105.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiw ve apoud kuara ehrotemu vopgowa ledhok ce ri jol lelihipo rolalja feczam elleca. Zezi giraflir laozu da zuf wuk penaznam duinvob kuditac pe zemiut liwibi momveh elapoap sisne. Uknej zijticmi sicpeb egeb utopa lecjotet izahuweb mide ohca lagus ca kujceim. Hakac rizte zopzib pacbi miipe ohzi redilasam huwurna apgeg tuhnodti luture edeul zuzvun. Wanfus ipo fuzip da wuvub ijiwan if gewjata jet awbovbaz bef vidudun tebele nuediju ratofi.",
+    "bio": "Viatag uwfoceb gi in kugocev vohuvoj ak dujjujge duredog zueja sodarasos gutoro jefpu bik. Cedorlur go atgeti kindim oguratja vo vivseh ofmele okisan pasge suomli tuz pefjaj zionuhe meticupi medsud. Ceutpev mocice igevojas wezruf urozuro in ep ge dif luna tamikgif vi."
+  },
+  "apiKey": "9b163269578fe96f10b48ec9796c4a87b1d0d1b1fc624ebd9b6d0dd88c9c42f9",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
