@@ -1,0 +1,26 @@
+{
+  "name": "Sean Tyler",
+  "age": 44,
+  "address": {
+    "street": "Rolot Ridge",
+    "city": "Mewudako",
+    "state": "UT",
+    "zip": "23516"
+  },
+  "contact": {
+    "phone": "(244) 646-4372",
+    "servicePhone": "800862276"
+  },
+  "birthday": "1963-11-02T05:14:04.881Z",
+  "ip": "166.246.250.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Kajjisu lememef pi izu mu en dag koji so savu muw esu gawase up. Huvju waaj repseha pu tocdoogo mimale baeju ezkeupo usa oki johulka ic hom sep hookpat cigi. Hu iki pobto riv efobapij ihzuf rul bemcore nartobod vofsi koj zoh ife unsa fomcet. Gaz sudohi caligvu hi mohilce ebugo je cabo og cekna hi vetuzok fap pufemviw vipespu gemzevbah buul jodmu. Bepot itgah ivapetem vutcut vur maih lek eva umeirpik keuz ce vug.",
+    "bio": "Iwopod awihuip sutzumsik luv es kowsos laje reler fug cu er hekbitje vaibi hiiwe higruili dacis. Atu zem uzfif ihsej hodnole tih sa gavloj pofa suj jesoh devru ehatiz nosatoz joop hewibmih hudbo humvomur. Kohoza ta sacemag fozrud nad sacte widha sogcuhked hih vim lu anpudkih janpe najad. Cisho su ojunaduv degup wejemur fiksanfu devsajis lit iciecpi ekokofa okibo enna utomekiha hapam dobono. Pimsad nilmom mod judek souw dogiso goomfat metfoara cofhoj nowof kutcihzul udu."
+  },
+  "apiKey": "c8aba868b205b9d51f047dfb0e4f498ef84edaa63ce2206c214a0c638b3d8ae9",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
