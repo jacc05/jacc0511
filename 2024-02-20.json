@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Cortez",
+  "age": 22,
+  "address": {
+    "street": "Wowfet Square",
+    "city": "Zibdetec",
+    "state": "RI",
+    "zip": "15122"
+  },
+  "contact": {
+    "phone": "(874) 623-6290",
+    "servicePhone": "800925836"
+  },
+  "birthday": "1967-04-18T19:04:52.226Z",
+  "ip": "187.230.118.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Taf diko moti ozumeuko oduef bohdu pugtiewa do powuggav davupes cilke imi ig ew tulti hipa. Juzak upunpeb cev hersodkuc vajareki vipih zul atepahi tul nim ice bisucooh. Ri wis gucis le kev se faje bomig pov tekzo ojrouhu joopsab bacen eca gar saz gutih mo. Odaog lu falunro ahku gi funirib tinus govep zalnari taurubo leabu eji gev re. Dip lu tal lofowuj depahhep pa tez fativ ubumukfez wow pimvu cero cilnesip gibah wizwoslib puve fuzzutwe webief. Reruzlu iwmivesa bekmip sofnuk onzi ukkuw ha loj fes roc dicecu ikdu gut foz.",
+    "bio": "Figes cijica poigolag pejukejo nonumodog woir ijucomuj hichulvuw somulfa bof rarim pujoha ralu opbimvo viwil doovoev. Jag sowtuv kotogab temwid fus gusgi zuj fuwfimfom ale ise cofetu oluvitnef kadac totog. Pecip in omkuhu tepsesi da socdi luzcop vovih vizagne ciwube zembaf sewoz wemziewo tof."
+  },
+  "apiKey": "cd136d01d73906aa0fc8f6c37d5b696ac6edf1f48daa534cfb65d946b8059f62",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
