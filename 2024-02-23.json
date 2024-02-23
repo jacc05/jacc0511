@@ -1,0 +1,26 @@
+{
+  "name": "Mike Green",
+  "age": 57,
+  "address": {
+    "street": "Dize Mill",
+    "city": "Wihite",
+    "state": "NY",
+    "zip": "38153"
+  },
+  "contact": {
+    "phone": "(250) 298-6599",
+    "servicePhone": "800439435"
+  },
+  "birthday": "1982-07-12T02:11:30.425Z",
+  "ip": "106.82.61.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo cok efij ma im ku labcouno towiwmo hecvalot ver hi toreji se cuce mucso vuka donzosema. Du mebulewa cogeg edukebwu raswud ozibona car saome buhra sakud kev okagej fagafra. Lesfu cicap aban nala osehafek vumewme havigoc fi we guscawo nooca ruvec. Isais lakod heheg ugeves iz puunieli laviz le dodje feb luk ol. Inedgam bijpire alwi ovo fak upin ja sul zi ru fape mit otibapak toftunwuz woso namoj ewkedlij.",
+    "bio": "Gojor ogesfof aleduk wo ova ki cebdeamu fophadu irde neowukaj fotki duep ap jislin. Putotik zofwuri pa pib hizahud fi wi vefkufon dujfiin fa zantu javab sehsus ton. Wi wuosa zaako tat vezama juzez jusap biniz zi ih govjegip okiteit la get."
+  },
+  "apiKey": "0386d54788362bad8e443949d3e46f0dbc8bf64ab1b609303065098f4d18d81a",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
