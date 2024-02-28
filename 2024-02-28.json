@@ -1,0 +1,26 @@
+{
+  "name": "Roy Becker",
+  "age": 31,
+  "address": {
+    "street": "Orloh Avenue",
+    "city": "Fivzusvem",
+    "state": "SC",
+    "zip": "40207"
+  },
+  "contact": {
+    "phone": "(485) 655-6550",
+    "servicePhone": "800417729"
+  },
+  "birthday": "1976-10-20T13:55:31.247Z",
+  "ip": "75.45.56.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Onavop iwavoto vufilo vu iku faewebi owanewi mimiw zedilugus nam becunal pale uca vibo fomedi. Uradaube zas ir zidiki ahigis neweva guhun zutawaw pipo nap kupatzi wimfap. Afopes jib afwinif hewunav ji bahfevi kokazuse pi jom ce zasbul nejwika mol bokivupe kalekepih pik fefjib.",
+    "bio": "Boc vawar upucud vug ajid gotko wiiv seejuna fojac vez majas ecazusu wavhiz raffob uv ris ulnifwe wus. Cenkijcuh sume kamegi kim ere riipma hileb eweh rieffe cizsi vigojbi dacowte juiz. Jejifuk bef adsafeb nul muhij ezivon osiewpud suirur jundocos deecdu gujuwusa ruikoko urze iraigu coccuref akcemzu."
+  },
+  "apiKey": "e04fe4186958336f27d1403d6d7d4a0045f3ca71348d71ac1e4fd818e813c5c8",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
