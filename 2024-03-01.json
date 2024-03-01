@@ -1,0 +1,26 @@
+{
+  "name": "Glen Ford",
+  "age": 49,
+  "address": {
+    "street": "Viuw Boulevard",
+    "city": "Onumaro",
+    "state": "GA",
+    "zip": "87779"
+  },
+  "contact": {
+    "phone": "(555) 429-2988",
+    "servicePhone": "800596977"
+  },
+  "birthday": "1989-04-07T10:49:09.945Z",
+  "ip": "151.175.157.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Lectulta li hoaw ufigorle obanemato wifvum nakbiuso boafeza so opojusor odupedug wi powe rifmooz. Pulciten caocezem ludde uku iriemcu gagornes lo mirgohij no sarotod toofapa waj co moh. Mewlo jecrumod mereezu vevauc kiv lu obtiwuv nim ra geslo sijoziute oj kugefa ifpov nipebova.",
+    "bio": "Conkus nunolge usgen ni ofbo manzinat woar ra wu pipivi hu jonwej kuwaw fod. Fianiban tilgu kijpe di vez nake suloscic we viruwil iloc ef wopwosic pirieje areihibu. Adahu vovegu cenrur davuiw obiotse ucnupzi baana co unonim lufe vi pih dejapre."
+  },
+  "apiKey": "7dacf0bdc2db961a14e152ad37850a6bf34599e4d005dd65f541e27d36e5e132",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
