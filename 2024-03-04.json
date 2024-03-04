@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Larson",
+  "age": 42,
+  "address": {
+    "street": "Osala Center",
+    "city": "Falojgo",
+    "state": "NJ",
+    "zip": "87227"
+  },
+  "contact": {
+    "phone": "(201) 612-6064",
+    "servicePhone": "800831138"
+  },
+  "birthday": "1967-12-03T01:27:18.780Z",
+  "ip": "230.95.62.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Teh to bit hocti ig mifzod fibhe calok sedisovi mihoruje zestep guf libizus wus pivfu bubva. Misnuh rinneru wacdefe ekve otifooju odgit it la altecer zimcedur ra gesih jomgow ne be nukumu gugzijok. Be gagpi bijo co lin buftun kamfiore uvvaz ofupuos lujo pewarabo wuctij wi. Am givgifiv tajilgu sugi dunjorpi ja jeg hok wu initazic izi osapuos bujhir ce lila bisaw. Zurboep pe ca wawal puci welda uhu tuvzehe hikosle zul mu ogujesaki ogbanot lejilgib bi eguij susvemow jiihpu. Piejeawi legajeru der dunem adesaig ef romah hojvib ejdittu bumzi ow jiwhez befmuvtom udbehta bek.",
+    "bio": "Pagpiv itkuda dimpemca ga jaczik lufrelto mo nenidu farut pawdura ewiruwvav gauf ugowu. Eseurouz kugnidu beleci bita piwahju du worra sowda nazke nimvohguj ubejid li. Teke vuhsofiw vi aniuma ucoebu kojde nic jigi buoveab nukres fa doma. Veut gedakku fojze mafca sudi uwcus maabope hone beditdet tutnez ma ewerata geetida dugsa durob efewalso cagohgat."
+  },
+  "apiKey": "6a762062e117585f431e9635101a6531f524378f6478daba2c472172f31d0742",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
