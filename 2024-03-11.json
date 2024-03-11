@@ -1,0 +1,26 @@
+{
+  "name": "Myra Glover",
+  "age": 18,
+  "address": {
+    "street": "Mifto Circle",
+    "city": "Fuzohijik",
+    "state": "IL",
+    "zip": "12477"
+  },
+  "contact": {
+    "phone": "(883) 339-5569",
+    "servicePhone": "800624832"
+  },
+  "birthday": "1964-04-20T04:01:03.976Z",
+  "ip": "92.253.176.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko ha razjiz kafojwa va udo hapu vom ormur arala corow big. Lato vo bemla aghukcov gi kavge kibdu padifo hichogos icka dewubar gaegi. Opu mat eleroji kejcoc mod tar ucaocsap ot ipzudaho vo pabukugul af ted rozok jul popvol. Nucnanjab fus retisir fur pem kaz feihe sitjos wiscamfa jote cenjaju huwut.",
+    "bio": "Co jajobaco heb polo nodivgi gu otge rihdul divi bebij heg te suotujed gouzuh kopadki os we. Jankistez ciga kewi tecompi lo je osuutno zomup suvaka todsaba sesjuha kijo wor. Naf ibomefov henagsom heamu bohuw cinis dib odu gijuci nuiha do kajbomli pisger vep iwosojo cikovuoli hivtopafo."
+  },
+  "apiKey": "66dd7ef1c641cc7348347a04406090d7cfcd046c8217498be11c8bd6969e0afb",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
