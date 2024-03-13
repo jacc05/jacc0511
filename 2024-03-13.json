@@ -1,0 +1,26 @@
+{
+  "name": "Joel Snyder",
+  "age": 47,
+  "address": {
+    "street": "Adim View",
+    "city": "Effine",
+    "state": "CA",
+    "zip": "89374"
+  },
+  "contact": {
+    "phone": "(601) 523-1951",
+    "servicePhone": "800482198"
+  },
+  "birthday": "1962-03-22T00:26:25.664Z",
+  "ip": "77.249.121.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Maital tiogdad zab jeg iljudi koanakag weg poanaru ev koelobog zebmu radusno so. Pingutod cifopbum ruk diungo wum rurtedus ranupe bow geplegzas fuhicba gileuta evo. Waafe ic sav iv sa fufnel toskudad ejnir pa harta budohrib zacawjid. Bo lih feuw har ki lohur te biase eda tarbupzeh za ekoogci do oku tigluhze davuara.",
+    "bio": "Be hajnifnu je omgecgo pucez sanu dape ade doh izluggez vofanzit it govso wa. Huna caz lo zunked pu mihwuv robuc capisdut fam tivpu ramiiji muhniwuf ewutanzeb akofoc mo lokruva. Zimic vetivaoc mo meok kotkevo ca vowup uhlovvi dam bo toimod ihugaag pez nah."
+  },
+  "apiKey": "bf66e4258c0f9c9ebdf757cfd9f0926d52e355cda18a2c6f608753df4b09ff07",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
