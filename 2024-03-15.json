@@ -1,0 +1,26 @@
+{
+  "name": "Alice Martinez",
+  "age": 54,
+  "address": {
+    "street": "Kidep Glen",
+    "city": "Niwekpof",
+    "state": "MS",
+    "zip": "29303"
+  },
+  "contact": {
+    "phone": "(231) 270-5111",
+    "servicePhone": "800126778"
+  },
+  "birthday": "1969-06-13T16:11:08.146Z",
+  "ip": "52.9.46.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohuwowse matsizi uf luread lapcoz cecmomgeb vok kipuugu ehpe pe in to. Ginutar eve boezo lu esiazozuk oz olij ca commet nad jelel amiobu kodli muejawo decnofra ric ep ewu. Sulkep rohuzi gabozot gu topfimu bu cusep gi ipogaz ocetap wacliewe aci cunote wujih julis ic foom.",
+    "bio": "Takupe zogod ojutuf vuk wigwibami akhi uteufi arur ew nod ticdes ab. Gajet gevoz fiji uzune uto mehoru pavtenra lara rujgil ecute fufko ab. Irubezre bub tizwatjak lujorgi kuc husula go isuozeku werwuco ofrigva kofamvok un wagot. Hitezu sut vegwened somignuw ge gikamobi bul elerinves cog sankik ka zuliap ba."
+  },
+  "apiKey": "95bc3ea10b4f8655131c3cb55d3090c27430b435e6db722b8b0a0cf50c26ea87",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
