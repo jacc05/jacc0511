@@ -1,0 +1,26 @@
+{
+  "name": "Allen Hale",
+  "age": 44,
+  "address": {
+    "street": "Gazic Parkway",
+    "city": "Licaolu",
+    "state": "ND",
+    "zip": "73990"
+  },
+  "contact": {
+    "phone": "(870) 343-5026",
+    "servicePhone": "800161356"
+  },
+  "birthday": "1961-08-18T17:27:39.364Z",
+  "ip": "85.89.114.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Kilfim ume af lici zucibalud vazjozkif dasulhu ogunu iseziseh likekan delof lamsuk aba ludgug li cefu be pej. Enri kut vo teutane hodmer goguwcop jegkala piwva emakowe za ce ji tabi baujoit kapavzic. Jez jivu ibhon judbi pokrepa joed mibim ravit iv wutodo lerlim vetassur ifeeku lanadnif zarma vutewsob pa co. Iw somlumtag fucgogi sen utujucov iro bihasas jemuk ikigo no elube vij ipezebek coc duhi za rewoic. Sieleni de ig pug magobe laajcu zuw gigmu zegmikesi pokmef guriba mejuv.",
+    "bio": "Kuzavva ezgatdac ep gut up lokmicri feje ebageg hu obehivo nef sericmic vijnuzhis kif lut ca. Ja fumva ju ajvic vulpovgad uwiolu pac pejekiw bofa id tittoc obu sej jatpib fe icopu. Ovmadfi kiged laf kori dicfup jot ki fajikepi kavub si ok gucga za ga nuz gab jabsutob bitfuace."
+  },
+  "apiKey": "a0caf14f2184944320b6bd8bc057436ed8f6e9fb1d82b9a6fb4b044c63705fd3",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
